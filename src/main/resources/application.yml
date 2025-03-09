@@ -1,3 +1,5 @@
 spring:
   application:
     name: jwtauth
+  security:
+    jwt-secret: /cTKFcLbqB61zxV4+dnN6GoggIcaj5OqHb3g7R5NJaDJRmi4YtcBlTS8I5I0ncGBM09EW+1oG+J427A9AcL1dQ==
